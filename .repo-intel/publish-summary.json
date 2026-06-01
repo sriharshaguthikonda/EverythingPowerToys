@@ -1,0 +1,60 @@
+﻿{
+    "schemaVersion":  "repo-map-artifact-branch/v1",
+    "repo":  "sriharshaguthikonda/EverythingPowerToys",
+    "generatedAt":  "2026-06-01T06:19:24.7260650Z",
+    "source":  "Repo_maps GitHub footprint publish runner",
+    "publishBranch":  "repo-intel-artifacts",
+    "mapCount":  7,
+    "totalBytes":  606138,
+    "maps":  [
+                 {
+                     "name":  "chocolatey",
+                     "ref":  "refs/remotes/origin/chocolatey",
+                     "commit":  "76ffaf1aba86df813c6ef171de60e8f43d7c1aaf",
+                     "path":  ".repo-intel/branches/remote-origin/chocolatey__76ffaf1aba86/repo-map-full.json",
+                     "bytes":  4320
+                 },
+                 {
+                     "name":  "everything3",
+                     "ref":  "refs/remotes/origin/everything3",
+                     "commit":  "0bede7c7aeba64f06c92c7c0e661ef4afdacb7d2",
+                     "path":  ".repo-intel/branches/remote-origin/everything3__0bede7c7aeba/repo-map-full.json",
+                     "bytes":  265072
+                 },
+                 {
+                     "name":  "lib",
+                     "ref":  "refs/remotes/origin/lib",
+                     "commit":  "ae540fa15a994ba9fc3fe5c4f2d8d685da08d686",
+                     "path":  ".repo-intel/branches/remote-origin/lib__ae540fa15a99/repo-map-full.json",
+                     "bytes":  2524
+                 },
+                 {
+                     "name":  "main",
+                     "ref":  "refs/remotes/origin/main",
+                     "commit":  "92881d81d82106b403b746b337ff032c0279dac4",
+                     "path":  ".repo-intel/branches/remote-origin/main__92881d81d821/repo-map-full.json",
+                     "bytes":  267780
+                 },
+                 {
+                     "name":  "scoop",
+                     "ref":  "refs/remotes/origin/scoop",
+                     "commit":  "6e523de7a4eb5545eeca406f89a439372d53c996",
+                     "path":  ".repo-intel/branches/remote-origin/scoop__6e523de7a4eb/repo-map-full.json",
+                     "bytes":  3698
+                 },
+                 {
+                     "name":  "sfxCreator",
+                     "ref":  "refs/remotes/origin/sfxCreator",
+                     "commit":  "2bb033e9c9662210ae0f8e6dfc737cb764e3573d",
+                     "path":  ".repo-intel/branches/remote-origin/sfxcreator__2bb033e9c966/repo-map-full.json",
+                     "bytes":  34270
+                 },
+                 {
+                     "name":  "winget",
+                     "ref":  "refs/remotes/origin/winget",
+                     "commit":  "c6f0e286f53dca1d8e72f969164ca4a1484b42af",
+                     "path":  ".repo-intel/branches/remote-origin/winget__c6f0e286f53d/repo-map-full.json",
+                     "bytes":  5466
+                 }
+             ]
+}
